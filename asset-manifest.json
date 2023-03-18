@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nunote/static/css/main.a95935e2.css",
+    "main.js": "/Nunote/static/js/main.36981394.js",
+    "index.html": "/Nunote/index.html",
+    "main.a95935e2.css.map": "/Nunote/static/css/main.a95935e2.css.map",
+    "main.36981394.js.map": "/Nunote/static/js/main.36981394.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a95935e2.css",
+    "static/js/main.36981394.js"
+  ]
+}
